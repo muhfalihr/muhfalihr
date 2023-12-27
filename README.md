@@ -10,7 +10,7 @@
 
 [stats]: https://github-readme-stats.vercel.app/api?username=muhfalihr&show_icons=true&theme=tokyonight
 [language]: https://github-readme-stats.vercel.app/api/top-langs/?username=muhfalihr&layout=donut&theme=tokyonight
-[typing]: https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Japanese&weight=700&pause=1000&color=1DA2F7&multiline=true&random=false&width=435&lines=%E7%A7%81+muhfalihr++%E6%B4%BE%E8%90%8E%E5%AF%B8++%CD%9C%E2%96%AD%E2%96%AD%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%EF%BA%A4+
+[typing]: https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Japanese&weight=700&pause=1000&color=7DA3E1&multiline=true&random=false&width=435&lines=%E7%A7%81+muhfalihr++%E6%B4%BE%E8%90%8E%E5%AF%B8++%CD%9C%E2%96%AD%E2%96%AD%CE%B9%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%EF%BA%A4+
 [badge1]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [badge2]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [badge3]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
